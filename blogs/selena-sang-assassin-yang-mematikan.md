@@ -1,3 +1,16 @@
+---
+id: "3"
+slug: "selena-sang-assassin-yang-mematikan"
+title: "Selena. Sang Assassin Yang Mematikan!"
+author: "ascndia"
+tags: ["mobile legends", "game"]
+date: "2024-08-22"
+image: "https://cms.hybrid.co.id/wp-content/uploads/2022/03/096daafa4df316340a7bd2a010ea7702_Selena_MLBB-1024x576.jpg"
+description: "Selena adalah salah satu hero yang paling menarik di Mobile Legends: Bang Bang."
+src: "http://raw.githubusercontent.com/ascndia/data/master/images/blogs/selena-sang-assassin-yang-mematikan.md"
+show: true
+featured: true
+---
 ## Pendahuluan
 Selena adalah salah satu hero yang paling menarik di Mobile Legends: Bang Bang. 
 
