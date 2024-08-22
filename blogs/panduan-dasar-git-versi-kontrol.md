@@ -35,7 +35,7 @@ Git adalah sistem kontrol versi terdistribusi yang digunakan untuk melacak perub
    brew install git
    ```
 
-### Di macOS
+### Di Linux
 
 1. Install Git menggunakan manajer paket distribusi Anda. Misalnya, di Ubuntu, jalankan:
    ```bash
