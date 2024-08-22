@@ -1,7 +1,7 @@
 ---
     id: "1",
     slug: "panduan-memulai-blog-dengan-nextjs",
-    title: "Panduan Memulai Blog dengan Next.js",
+    title: "Panduan Memulai Blog dengan Next.   js",
     author: "ascndia",
     tags: ["nextjs", "blog"],
     date: "2024-08-22",
