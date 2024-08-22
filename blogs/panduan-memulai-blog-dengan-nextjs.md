@@ -1,10 +1,14 @@
 ---
-title: "Panduan Memulai Blog dengan Next.js"
-date: "2024-08-22"
-author: "ascndia"
-tags: ["Next.js", "Blogging", "Pengembangan Web"]
-image: "https://cdn.example.com/images/panduan-blog.jpg"
-slug: "panduan-memulai-blog-dengan-nextjs"
+    id: "1",
+    slug: "panduan-memulai-blog-dengan-nextjs",
+    title: "Panduan Memulai Blog dengan Next.js",
+    author: "ascndia",
+    tags: ["nextjs", "blog"],
+    date: "2024-08-22",
+    image: "http://assets.entrepreneur.com/content/3x2/2000/20150824161251-wordpress-blogging-writing-typing-macbook-laptop-computer-technology-business-working.jpeg",
+    src: "http://raw.githubusercontent.com/ascndia/data/master/images/blogs/panduan-memulai-blog-dengan-nextjs.md",
+    show: true
+    featured: true
 ---
 
 Jika Anda ingin memulai blog menggunakan Next.js, panduan ini akan membantu Anda melalui langkah-langkah dasar untuk membangun blog yang berfungsi dengan baik dan teroptimasi.
