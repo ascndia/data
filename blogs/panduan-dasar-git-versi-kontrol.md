@@ -68,7 +68,6 @@ git config --global user.email "email@domain.com"
    Untuk memulai repositori baru, gunakan perintah:
 
 ```bash
-Copy code
 git init
 ```
 
