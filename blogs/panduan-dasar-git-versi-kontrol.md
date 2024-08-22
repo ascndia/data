@@ -45,7 +45,7 @@ Git adalah sistem kontrol versi terdistribusi yang digunakan untuk melacak perub
 2. Untuk distribusi berbasis Fedora, gunakan:
 
    ```bash
-       sudo dnf install git
+   sudo dnf install git
    ```
 
 3. Untuk distribusi berbasis Arch, gunakan:
