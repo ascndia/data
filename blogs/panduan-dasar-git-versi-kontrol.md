@@ -76,49 +76,42 @@ git init
    Untuk menambahkan file ke staging area, gunakan:
 
 ```bash
-Copy code
 git add nama-file 3. Membuat Commit
 ```
 
 3. Untuk menyimpan perubahan ke repositori, gunakan:
 
 ```bash
-Copy code
 git commit -m "Pesan commit" 4. Melihat Status
 ```
 
 4. Untuk memeriksa status repositori, termasuk file yang telah diubah atau belum ditambahkan, gunakan:
 
 ```bash
-Copy code
 git status 5. Melihat Riwayat Commit
 ```
 
 5. Untuk melihat riwayat commit, gunakan:
 
 ```bash
-Copy code
 git log 6. Membuat Cabang
 ```
 
 6. Untuk membuat cabang baru, gunakan:
 
 ```bash
-Copy code
 git branch nama-cabang 7. Beralih Cabang
 ```
 
 7. Untuk beralih ke cabang yang berbeda, gunakan:
 
 ```bash
-Copy code
 git checkout nama-cabang 8. Menggabungkan Cabang
 ```
 
 8. Untuk menggabungkan perubahan dari cabang lain ke cabang saat ini, gunakan:
 
 ```bash
-Copy code
 git merge nama-cabang
 ```
 
