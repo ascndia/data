@@ -22,53 +22,56 @@ Wups.. Jangan salah.. Meskipun Selena dengan Build Critical kurang dikenal dan j
 
 ## Keunggulan Build Critical
 
-1. Clear Minion Lebih Cepat
+1. **Clear Minion Lebih Cepat** :
    Dibandingkan dengan build magic. Build critical dapat lebih mudah menghabisi minion dan lord.
 
-2. Burst Damage Tinggi
+2. **Burst Damage Tinggi** :
    Dengan efek critical dan passive selena, damage burst yang dihasilkan dapat mencapai 5000 magic damage keatas.
 
-3. Kuat Terhadap Magic Defense
+3. **Kuat Terhadap Magic Defense** :
    Serangan critical selena, bisa menembus magic defense musuh dengan mudah. Meskipun musuh sudah membeli Athena Shield dan Radiant Armor.
 
-4. Susah di Kounter
+4. **Susah di Kounter** :
    Magic defense saja tidak cukup untuk melindungi dari serangan selena. Butuh equipment seperti **Blade Armor** untuk mengurangi damage critical yang diterima
 
 ## Kelemahan Build Critical
 
-1. Bergantung Pada Probabilitas
+1. **Bergantung Pada Probabilitas** :
    Dengan Talent Critical dan Item Berseker Fury. Kamu hanya mempunyai kesempatan 35% untuk menghasilkan Critical
 
-2. Gameplay lebih barbar
+2. **Gameplay lebih barbar** :
    Selena build critical harus menghampiri musuh untuk bisa menimbulkan burst damagenya yang tinggi. Hal ini tentu sangat beresiko.
 
-3. Damage Trap yang Kecil
+3. **Damage Trap yang Kecil** :
    Karena digabung dengan equipment physical. maka damage pure magical selena menjadi tidak sesakit build magic pada umumnya.
 
 ## Keunggulan Build Magic
 
-1. Gameplay Lebih Aman
+1. **Gameplay Lebih Aman** :
    Dengan build magic, kamu bisa tetap aman tanpa harus terlalu dekat dengan musuh. Cukup jaga jarak dan manfaatkan kemampuan jarak jauh Selena untuk memberikan damage dari belakang garis depan.
 
-2. Overall Damage Lebih Tinggi
+2. **Overall Damage Lebih Tinggi** :
    Build magic memaksimalkan potensi damage dari skill Selena, memungkinkan kamu untuk menghasilkan overall damage yang lebih besar secara keseluruhan
 
-3. Damage Trap lebih sakit
+3. **Damage Trap lebih sakit** :
    Damage trap yang dihasilkan oleh build magic sangat besar dan cukup untuk membuat Marksman dan Mage musuh kewalahan
 
 ## Kelemahan Build Magic
 
-1. Harus Menunggu Lategame / Full Item
+1. **Harus Menunggu Lategame / Full Item** :
    Selena magic hanya sakit apabila sudah full item. dan hero roaming cenderung susah untuk mendapatkan gold
 
-2. Rentan Terhadap Serangan Jarak Dekat
+2. **Rentan Terhadap Serangan Jarak Dekat** :
    Selena magic tidak meimiliki flexibilitas dan kemampuan untuk menghadapi serangan ambush. karena fokusnya pada serangan jarak jauh
 
-3. Susah membersihkan minion
+3. **Susah membersihkan minion** :
    Hal ini akan menjadi masalah apabila, base atau turret sedang diserang oleh minion ataupun lord. apalagi jika ada musuh disekitar
 
 ## Kesimpulan.. Mana yang Lebih OP?
 
-Jadi, mana yang lebih unggul? Build Critical menawarkan kejutan, burst damage yang tak terduga serta gameplay yang memacu adrenalin, atau Build Magic yang menawarkan konsistensi, damage yang bisa diandalkan dan gameplay yang lebih aman?. Para purist Mobile Legends mungkin akan mengatakan bahwa Build Magic adalah satu-satunya jalan untuk Selena, karena skill-set-nya memang didesain untuk magic damage. Namun, Build Critical memberikan sesuatu yang berbeda dan bisa jadi senjata rahasia yang mengejutkan lawan.
+Jadi, mana yang lebih unggul? Build Critical menawarkan kejutan, burst damage yang tak terduga serta gameplay yang memacu adrenalin, atau Build Magic yang menawarkan konsistensi, damage yang bisa diandalkan dan gameplay yang lebih aman?.
+Para purist Mobile Legends mungkin akan mengatakan bahwa Build Magic adalah satu-satunya jalan untuk Selena, karena skill-set-nya memang didesain untuk magic damage.
+Namun, Build Critical memberikan sesuatu yang berbeda dan bisa jadi senjata rahasia yang mengejutkan lawan.
 
-Akhirnya, pilihan kembali ke pemain. Apakah Anda tipe pemain yang suka mengambil risiko dengan critical hits, atau Anda lebih suka bermain aman dengan magic burst? Bagaimanapun juga, Selena tetaplah seorang assassin yang mematikan, apapun build yang Anda pilih. Jadi, kenapa tidak mencoba keduanya dan melihat mana yang paling cocok untuk gaya bermain Anda..
+Akhirnya, pilihan kembali ke pemain. Apakah Anda tipe pemain yang suka mengambil risiko dengan critical hits, atau Anda lebih suka bermain aman dengan magic burst?
+Bagaimanapun juga, Selena tetaplah seorang assassin yang mematikan, apapun build yang Anda pilih. Jadi, kenapa tidak mencoba keduanya dan melihat mana yang paling cocok untuk gaya bermain Anda..
