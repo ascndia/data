@@ -25,17 +25,30 @@
     "show": true,
     "featured": true
   },
-{
-  "id": "3",
-  "slug": "selena-sang-assassin-yang-mematikan",
-  "title": "Selena. Sang Assassin Yang Mematikan!",
-  "author": "ascndia",
-  "tags": ["mobile legends", "game"],
-  "date": "2024-08-22",
-  "image": "https://cms.hybrid.co.id/wp-content/uploads/2022/03/096daafa4df316340a7bd2a010ea7702_Selena_MLBB-1024x576.jpg",
-  "description": "Selena adalah salah satu hero yang paling menarik di Mobile Legends: Bang Bang.",
-  "src": "https://raw.githubusercontent.com/ascndia/data/master/blogs/selena-sang-assassin-yang-mematikan.md",
-  "show": true,
-  "featured": true
-}
+  {
+    "id": "3",
+    "slug": "selena-sang-assassin-yang-mematikan",
+    "title": "Selena. Sang Assassin Yang Mematikan!",
+    "author": "ascndia",
+    "tags": ["mobile legends", "game"],
+    "date": "2024-08-22",
+    "image": "https://cms.hybrid.co.id/wp-content/uploads/2022/03/096daafa4df316340a7bd2a010ea7702_Selena_MLBB-1024x576.jpg",
+    "description": "Selena adalah salah satu hero yang paling menarik di Mobile Legends: Bang Bang.",
+    "src": "https://raw.githubusercontent.com/ascndia/data/master/blogs/selena-sang-assassin-yang-mematikan.md",
+    "show": true,
+    "featured": true
+  },
+  {
+    "id": "4",
+    "slug": "selena-build-critical-vs-build-magic",
+    "title": "Selena Build Critical vs Build Magic - Mana yang Lebih OP?",
+    "description": "Dalam dunia Mobile Legends, Selena dikenal sebagai salah satu assassin paling mematikan dengan kombinasi skill set yang mengerikan. Namun tahukah kamu? Selain build magic, Selena juga bisa dikombinasikan dengan item critical seperti Berserker's Fury dan Starlium Scythe untuk menghasilkan damage burst yang sangat tidak terduga.",
+    "author": "ascndia",
+    "tags": ["mobile legends", "game"],
+    "date": "2024-08-23",
+    "image": "https://res.cloudinary.com/db6so3vz3/image/upload/v1724380662/Purple_and_Black_Gradient_Y2K_Coming_Soon_Banner_zwie8w.jpg",
+    "src": "https://raw.githubusercontent.com/ascndia/data/master/blogs/selena-build-critical-vs-build-magic.md",
+    "show": true,
+    "featured": true
+  }
 ]

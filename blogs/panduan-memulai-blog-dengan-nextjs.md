@@ -6,7 +6,7 @@ author: "ascndia"
 tags: ["nextjs", "blog"]
 date: "2024-08-22"
 image: "http://assets.entrepreneur.com/content/3x2/2000/20150824161251-wordpress-blogging-writing-typing-macbook-laptop-computer-technology-business-working.jpeg"
-src: "http://raw.githubusercontent.com/ascndia/data/master/blogs/panduan-memulai-blog-dengan-nextjs.md"
+src: "https://raw.githubusercontent.com/ascndia/data/master/blogs/panduan-memulai-blog-dengan-nextjs.md"
 show: true
 featured: true
 ---

@@ -6,7 +6,7 @@ author: "ascndia"
 tags: ["nextjs", "blog"]
 date: "2024-08-22"
 image: "https://images.unsplash.com/photo-1654277041218-84424c78f0ae?q=80&w=2062&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-src: "http://raw.githubusercontent.com/ascndia/data/master/blogs/panduan-memulai-blog-dengan-nextjs.md"
+src: "https://raw.githubusercontent.com/ascndia/data/master/blogs/panduan-memulai-blog-dengan-nextjs.md"
 show: true
 featured: true
 ---
