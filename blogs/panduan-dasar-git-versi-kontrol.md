@@ -64,51 +64,51 @@ git config --global user.email "email@domain.com"
 
 ## Perintah Git Dasar
 
-1. Inisialisasi Repositori
+1. Inisialisasi Repositori  
    Untuk memulai repositori baru, gunakan perintah:
 
 ```bash
 git init
 ```
 
-2. Menambahkan File
+2. Menambahkan File  
    Untuk menambahkan file ke staging area, gunakan:
 
 ```bash
-git add nama-file 3. Membuat Commit
+git add nama-file 
 ```
-
-3. Untuk menyimpan perubahan ke repositori, gunakan:
+3. Membuat Commit  
+Untuk menyimpan perubahan ke repositori, gunakan:
 
 ```bash
-git commit -m "Pesan commit" 4. Melihat Status
+git commit -m "Pesan commit" 
 ```
-
-4. Untuk memeriksa status repositori, termasuk file yang telah diubah atau belum ditambahkan, gunakan:
+4. Melihat Status  
+Untuk memeriksa status repositori, termasuk file yang telah diubah atau belum ditambahkan, gunakan:
 
 ```bash
-git status 5. Melihat Riwayat Commit
+git status 
 ```
-
-5. Untuk melihat riwayat commit, gunakan:
+5. Melihat Riwayat Commit  
+Untuk melihat riwayat commit, gunakan:
 
 ```bash
-git log 6. Membuat Cabang
+git log 
 ```
-
-6. Untuk membuat cabang baru, gunakan:
+6. Membuat Cabang  
+Untuk membuat cabang baru, gunakan:
 
 ```bash
-git branch nama-cabang 7. Beralih Cabang
+git branch nama-cabang 
 ```
-
-7. Untuk beralih ke cabang yang berbeda, gunakan:
+7. Beralih Cabang  
+Untuk beralih ke cabang yang berbeda, gunakan:
 
 ```bash
-git checkout nama-cabang 8. Menggabungkan Cabang
+git checkout nama-cabang
 ```
-
-8. Untuk menggabungkan perubahan dari cabang lain ke cabang saat ini, gunakan:
+8. Menggabungkan Cabang  
+Untuk menggabungkan perubahan dari cabang lain ke cabang saat ini, gunakan:
 
 ```bash
 git merge nama-cabang
