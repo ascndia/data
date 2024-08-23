@@ -70,8 +70,11 @@ Wups.. Jangan salah.. Meskipun Selena dengan Build Critical kurang dikenal dan j
 ## Kesimpulan.. Mana yang Lebih OP?
 
 Jadi, mana yang lebih unggul? Build Critical menawarkan kejutan, burst damage yang tak terduga serta gameplay yang memacu adrenalin, atau Build Magic yang menawarkan konsistensi, damage yang bisa diandalkan dan gameplay yang lebih aman?.
+
 Para purist Mobile Legends mungkin akan mengatakan bahwa Build Magic adalah satu-satunya jalan untuk Selena, karena skill-set-nya memang didesain untuk magic damage.
+
 Namun, Build Critical memberikan sesuatu yang berbeda dan bisa jadi senjata rahasia yang mengejutkan lawan.
 
 Akhirnya, pilihan kembali ke pemain. Apakah Anda tipe pemain yang suka mengambil risiko dengan critical hits, atau Anda lebih suka bermain aman dengan magic burst?
+
 Bagaimanapun juga, Selena tetaplah seorang assassin yang mematikan, apapun build yang Anda pilih. Jadi, kenapa tidak mencoba keduanya dan melihat mana yang paling cocok untuk gaya bermain Anda..
